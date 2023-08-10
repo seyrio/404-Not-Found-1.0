@@ -68,4 +68,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@seyrio](https://{github.com/seyrio})
+- GitHub [@seyrio](https://github.com/seyrio)
